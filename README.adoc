@@ -21,3 +21,14 @@
 * https://github.com/koute/bytehound[bytehound]
 * https://github.com/matt-kimball/allocscope[allocsscope]
 * https://github.com/jbreitbart/criterion-perf-events[criterion-perf-events]
+
+== Golang
+
+* https://github.com/golang/tools/blob/master/cmd/ssadump/main.go[ssadump]
+* https://github.com/mitranim/gow[gow]
+* https://github.com/gopasspw/gopass[gopass]
+* https://github.com/zerosign/git-credential-authinfo[git-credential-authinfo]
+* https://github.com/firecracker-microvm/firectl[firectl]
+* https://github.com/dominikh/gotraceui[gotraceui]
+** https://github.com/dominikh/gotraceui/releases/latest/download/gotraceui.pdf[gotraceui docs]
+
