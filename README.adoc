@@ -1,0 +1,23 @@
+= Dev Tooling Notes
+
+== Rust
+
+* https://github.com/Kobzol/cargo-pgo[cargo-pgo]
+** `Optimizing Rust programs with PGO and BOLT using cargo pgo`[https://kobzol.github.io/rust/cargo/2023/07/28/rust-cargo-pgo.html]
+* https://github.com/kobzol/cargo-remark[cargo-remark]
+** `LLVM Remark Diagnostics`[https://llvm.org/docs/Remarks.html]
+* https://github.com/crev-dev/cargo-crev[cargo-crev]
+* https://github.com/LukeMathWalker/cargo-chef[cargo-chef]
+* https://github.com/svenstaro/cargo-profiler[cargo-profiler]
+* https://github.com/BrainiumLLC/cargo-mobile[cargo-mobile]
+* https://github.com/rust-mobile/cargo-apk[cargo-apk]
+* cargo-llvm-ir
+* https://github.com/pksunkara/cargo-workspaces[cargo-workspaces]
+* https://github.com/gnzlbg/cargo-asm[cargo-asm]
+* https://github.com/Byron/gitoxide/tree/main/cargo-smart-release[cargo-smart-release]
+* https://github.com/jfrimmel/cargo-valgrind[cargo-valgrind]
+* https://github.com/LeSnake04/cargo-cleanall[cargo-cleanall]
+* https://github.com/ast-grep/ast-grep[ast-grep]
+* https://github.com/koute/bytehound[bytehound]
+* https://github.com/matt-kimball/allocscope[allocsscope]
+* https://github.com/jbreitbart/criterion-perf-events[criterion-perf-events]
