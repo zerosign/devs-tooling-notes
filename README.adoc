@@ -31,4 +31,5 @@
 * https://github.com/firecracker-microvm/firectl[firectl]
 * https://github.com/dominikh/gotraceui[gotraceui]
 ** https://github.com/dominikh/gotraceui/releases/latest/download/gotraceui.pdf[gotraceui docs]
-
+* golang pprof 
+** https://www.uber.com/en-SG/blog/pprof-go-profiler[pprof-go-profile] (bench & test)
